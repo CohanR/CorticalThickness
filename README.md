@@ -26,6 +26,9 @@ This will take several hours to complete!!!!!!!!!!!! maybe try FastSurfer if you
 
 ### 3. Visualising Processed Data
 
+![FreeView Example](FreeView_Example_RemyC.png)
+
+
 Once `recon-all` has finished, use `freeview` to visually inspect the cortical parcellations, including the `pericalcarine` area.
 
 ```bash
