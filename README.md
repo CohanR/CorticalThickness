@@ -49,7 +49,9 @@ Right hemisphere command:
 mris_anatomical_stats -b -f $SUBJECTS_DIR/subjid/stats/rh.aparc.stats subjid rh
 ```
 
-Repeat for the left hemisphere by replacing `rh` with `lh`.
+![FreeView Example](corticalthickness_stats.png)
+
+Repeat for the left/right hemisphere by replacing `rh` with `lh`.
 
 ### 5. Reviewing Results
 
